@@ -9,3 +9,9 @@ zain:
   last_name: "Aziz"
   email: "zain@heubee.com"
   profile_name: "zaziz"
+
+john: 
+  first_name: "John"
+  last_name: "Doe"
+  email: "johndoe@heubee.com"
+  profile_name: "jdoe"
